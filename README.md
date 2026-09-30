@@ -19,10 +19,10 @@ Azure networking · Network security groups · Azure Bastion · Linux server adm
 
 ## Screenshot
 
-![Azure VM lab](https://github.com/Archils/Azure-VM/assets/87620279/7d719212-2dc5-4ea0-a6d1-8dcd33945b3c)
+![Azure VM lab](https://github.com/Archo2/Azure-VM/assets/87620279/7d719212-2dc5-4ea0-a6d1-8dcd33945b3c)
 
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
